@@ -1,7 +1,6 @@
 # 🧠 OpenCV Mini Projects
 
-Bienvenue dans mon dépôt contenant plusieurs mini-projets utilisant OpenCV en Python pour démontrer mes compétences en vision par ordinateur.
-
+Covered Projects Using Only **OpenCV** Skils
 ## 📁 Contenu
 
 | Projet             | Description                                       | Démo Vidéo                                                                                          |
@@ -13,7 +12,7 @@ Bienvenue dans mon dépôt contenant plusieurs mini-projets utilisant OpenCV en 
 
 ## 🛠️ Environnement
 
-CCreate a virtual environment and install theese depenedencies :
+Create a virtual environment and install theese depenedencies :
 
 ```bash
 pip install -r requirements.txt
